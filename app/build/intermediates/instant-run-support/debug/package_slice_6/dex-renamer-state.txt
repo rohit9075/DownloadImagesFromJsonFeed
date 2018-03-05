@@ -1,0 +1,4 @@
+#Mon Mar 05 17:45:39 IST 2018
+base.0=D\:\\Restful\\Android Studio restful project\\DownloadImages\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
